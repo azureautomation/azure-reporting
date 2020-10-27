@@ -1,0 +1,20 @@
+{
+    "Author": "ManashM",
+    "ContentSize": 4373,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-reporting/master/AzureReporting.ps1",
+    "DownloadCount": 1205,
+    "Id": "Azure-Reporting-02addc29",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 242,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2016-5-5T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script is to fetch basic information of Azure resources both from Azure Service Manager and from Azure Resource Manager. Tun the script from ISE or from PowerShell and then type the below command\u00a0\u00a0The script has it's own help file so try to explore more with the command,\u00a0Thi",
+    "Title": "Azure Reporting",
+    "UpdatedDate": "2016-5-5T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-reporting",
+    "UserTags": "Azure Reporting, Information of VMs from Azure Portal, Storage information from Azure Portal"
+}
